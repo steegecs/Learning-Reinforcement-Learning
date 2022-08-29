@@ -14,7 +14,6 @@ SOLVED_PNG_PATH = "./scores/solved.png"
 AVERAGE_SCORE_TO_SOLVE = 195
 CONSECUTIVE_RUNS_TO_SOLVE = 100
 
-
 class ScoreLogger:
 
     def __init__(self, env_name):
